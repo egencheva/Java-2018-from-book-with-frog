@@ -3,7 +3,7 @@ package ExamFinal;
 import java.util.Scanner;
 
 public class Pr1 {
-
+//там ли си младежо?????
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double whiskeyPrice = Double.parseDouble(scanner.nextLine());
